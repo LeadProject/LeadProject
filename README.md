@@ -5,7 +5,7 @@
 <br/>
   <h3>Welcome to My Lab</h3>
   <h4>My lab has development materials and projects in development.</h4>
-<br/> <br/>
+<br/>
   <h3>Programming Language</h3>
   <br/>
   <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
