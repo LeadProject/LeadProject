@@ -24,5 +24,5 @@
 ![footer](https://capsule-render.vercel.app/api?type=waving&&color=gradient&height=100&section=footer&fontSize=90)
 
 # Stats
-![](https://github-readme-stats.vercel.app/api?username=alvin0319&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs?username=alvin0319&langs_count=4&count_private=true&theme=nord)
+![](https://github-readme-stats.vercel.app/api?username=LeadProject&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=LeadProject&langs_count=4&count_private=true&theme=nord)
