@@ -14,7 +14,7 @@
   <br/>
   <img src="https://img.shields.io/badge/PHP-6699FF?style=flat-square&logo=PHP&logoColor=white"/>
   <img src="https://img.shields.io/badge/Rust-333333?style=flat-square&logo=Rust&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-FF8000?style=flat-square&logo=Rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-FF8000?style=flat-square&logo=Java&logoColor=white"/>
 <br/>
 <br/>
 <br/>
